@@ -1,0 +1,42 @@
+body {
+  background-color: #b9ebcc;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  color: #342ead;
+  width: 100%;
+}
+
+h1 {
+  color: #f2a51a;
+}
+
+h2 {
+  color: #f2a51a;
+}
+
+p {
+  color: #ea6227;
+}
+
+td {
+  color: #ea6227;
+}
+
+li {
+  color: #ea6227;
+}
+
+.skills {
+  padding-top: 10px
+}
+
+.profile-pic-contact-details {
+  margin-right: 10px
+}
+
+.contact-details {
+  width: 100%;
+}
