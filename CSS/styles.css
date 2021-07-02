@@ -41,23 +41,23 @@ td {
 
 .title-section {
   background-color: #84a9ac;
-  padding: 2.5% 7.5% 2.5% 7.5%;
+  padding: 5% 7.5%;
 }
 
 .education {
-  padding: 1% 7.5% 2.5% 7.5%;
+  padding: 1% 7.5% 2.5%;
 }
 
 .skills {
-  padding: 2.5% 7.5% 2.5% 7.5%;
+  padding: 2.5% 7.5%;
 }
 
 .work {
-  padding: 2.5% 7.5% 2.5% 7.5%;
+  padding: 2.5% 7.5%;
 }
 
 .hobbies {
-  padding: 2.5% 7.5% 2.5% 7.5%;
+  padding: 2.5% 7.5%;
 }
 
 .title-section-hr {
@@ -66,11 +66,12 @@ td {
 }
 
 .contact-details-link {
-  padding: 2.5% 7.5% 2.5% 7.5%;
+  padding: 0 11.75%;
+  margin: 10% 0;
 }
 
 .bio {
-  line-height: 150%;
+  line-height: 1.75
 }
 
 .profile-pic-td {
@@ -84,5 +85,5 @@ td {
 }
 
 .home-page-link {
-  padding-left: 5%;
+  padding-left: 2.5%;
 }
